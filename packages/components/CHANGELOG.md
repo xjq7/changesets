@@ -1,5 +1,11 @@
 # @xxxx/components
 
+## 2.0.3
+
+### Patch Changes
+
+- [`9a7f116`](https://github.com/xjq7/changesets/commit/9a7f1164469cc47aa49ac111958768dc97f3503a) - 更新
+
 ## 2.0.2
 
 ### Patch Changes
