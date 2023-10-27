@@ -1,5 +1,11 @@
 # @xxxx/components
 
+## 2.0.2
+
+### Patch Changes
+
+- 1af987c: 测试后
+
 ## 2.0.1
 
 ### Patch Changes
